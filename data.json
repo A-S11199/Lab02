@@ -1,0 +1,45 @@
+{
+    "chart_title": "Top Speeds of Popular Cars",
+    "data_points": [
+        {
+            "label": "Koenigsegg Agera RS",
+            "value": 447
+        },
+        {
+            "label": "Bugatti Chiron",
+            "value": 420
+        },
+        {
+            "label": "Rimac Nevera",
+            "value": 412
+        },
+        {
+            "label": "McLaren Speedtail",
+            "value": 403
+        },
+        {
+            "label": "Lamborghini Aventador SVJ",
+            "value": 350
+        },
+        {
+            "label": "Ferrari SF90 Stradale",
+            "value": 340
+        },
+        {
+            "label": "Porsche 911 Turbo S",
+            "value": 330
+        },
+        {
+            "label": "Tesla Model S Plaid",
+            "value": 322
+        },
+        {
+            "label": "Chevrolet Corvette Z06",
+            "value": 312
+        },
+        {
+            "label": "Ford Mustang Shelby GT500",
+            "value": 290
+        }
+    ]
+}
